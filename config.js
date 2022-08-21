@@ -46,30 +46,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/AryBotz'
-global.sgh = 'https://github.com/arybotz'
+global.sig = '-'
+global.sgh = '-'
 global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
-global.sdc = 'https://github.com/arybotz'
-global.snh = 'https://youtube.com/c/AryBotz'
+global.sdc = 'https://wa.me/6283183321692'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085962734007'
-global.povo = '083862006229'
-global.pgopay = '083862006229'
-global.ppulsa = '083862006229'
-global.ppulsa2 = '085962734007'
-global.psaweria = 'https://saweria.co/arybotz'
+global.pdana = '083183321692'
+global.povo = 'blum ada'
+global.pgopay = 'blumnada'
+global.ppulsa = '083183321692'
+global.ppulsa2 = '-'
+global.psaweria = 'https://wa.me/6283183321692'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283197602989'
-global.nomorown = '6283862006229'
-global.namebot = 'Shirohige-MD'
-global.nameown = 'Skyxmoon Offcial'
+global.nomorbot = '62895381671700'
+global.nomorown = '6283183321692'
+global.namebot = 'ʙᴏᴛ ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ'
+global.nameown = 'ᴇʟᴀɪɴᴀ ofc'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283862006229', 'Skyxmoon Offcial', true]
+  ['6283183321692', 'ᴇʟᴀɪɴᴀ ofc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 Shirohige-MD |Skyxmoon Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 Shirohige Botz 乂     '
-global.wm3 = 'Shirohige Botz |ᗪ'
+global.wm = '「 ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ 」' //Main Watermark
+global.wm2 = '    乂 ʙᴏᴛ ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ 乂     '
+global.wm3 = 'ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ|ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'Shirohige-MD✯✯✯✯✯ '
+global.titlebot = 'ᴇʟᴀɪɴᴀ ofc✯✯✯✯✯ '
 global.author = global.wm
 
 
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 YT:AryBotz.|ᗪ \nig AryBotz.id`
+global.stickauth = `乂 ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ|ᗪ \nig AryBotz.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 

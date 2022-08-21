@@ -1,7 +1,7 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
 ┌─「 Donasi • Pulsa 」
-│ • *INDOSAT/DANA:* [${global.ppulsa}]
+│ • *AXIS/DANA:* [${global.ppulsa}]
 
 `
 const templateButtons = [

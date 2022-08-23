@@ -61,15 +61,15 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://wa.me/6283183321692'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895381671700'
+global.nomorbot = '6289513431273'
 global.nomorown = '6283183321692'
-global.namebot = 'ʙᴏᴛ ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ'
-global.nameown = 'ᴇʟᴀɪɴᴀ ofc'
+global.namebot = '𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇'
+global.nameown = '𝑇𝑧𝑝𝑒𝑟'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283183321692', 'ᴇʟᴀɪɴᴀ ofc', true]
+  ['6283183321692', '𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,7 +115,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '「 ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ 」' //Main Watermark
-global.wm2 = '    乂 ʙᴏᴛ ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ 乂     '
+global.wm2 = '    乂 𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇 乂     '
 global.wm3 = 'ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ|ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
@@ -172,8 +172,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '\n'
-global.stickauth = `乂 ᴇʟᴀɪɴᴀ ʙʏ ꜰᴀɴɢᴢ|ᗪ \nig AryBotz.id`
+global.stickpack = '\n𝑇𝑧𝑝𝑒𝑟'
+global.stickauth = `乂 𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇|ᗪ \nig AryBotz.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 

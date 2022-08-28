@@ -54,22 +54,22 @@ global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '083183321692'
-global.povo = 'blum ada'
-global.pgopay = 'blumnada'
+global.povo = '08998835033'
+global.pgopay = '08998835033'
 global.ppulsa = '083183321692'
 global.ppulsa2 = '-'
 global.psaweria = 'https://wa.me/6283183321692'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289513431273'
-global.nomorown = '6283183321692'
-global.namebot = '𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇'
-global.nameown = '𝑇𝑧𝑝𝑒𝑟'
+global.nomorbot = '08998835033'
+global.nomorown = '08998835033'
+global.namebot = 'mustofa bot'
+global.nameown = 'mustofa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283183321692', '𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇', true]
+  ['08998835033', '𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
